@@ -1,0 +1,154 @@
+Données portfolio
+
+Plan:
+-> Frontpage
+	-> Lien vers Mon CV
+	-> Préciser la passion du Jeu Vidéo
+		-> préciser travail en tant que Moddeur depuis 2018
+-> A propos de moi
+	-> Expériences
+		-> Thalès été 2019
+			préciser l'intitulé du stage
+		-> Community Management depuis 2018
+			préciser le travail sur Youtube, Twitch, lien projets persos (partie Mes projets)
+		-> Projets collaboratifs francophones et anglophones depuis 2019
+			préciser les projets de traduction collaboratifs (Empyrean, CFRU, Opalo en cours)
+			lien vers projets persos (partie Mes projets)
+	-> Education
+		-> Digital Campus Paris, 2023-2025
+			titre développeur et concepteur de solutions digitales
+		-> UGE, Licence Lettres Modernes, 1 an
+			préciser le skillset développé pendant cette expérience (élargir les horizons de création, bonnes pratiques d'écriture, analyse littéraire, développer l'esprit synthétique, analyse rhétorique, culture générale)
+		-> UGE, Licence Mathématiques Informatique, 2 ans
+			préciser le skillset développé pendant cette expérience (raisonnement mathématique, bonnes pratiques de développement)
+		-> ESIEE, 1ère année cycle ingénieur
+			préciser le skillset développé pendant cette expérience (esprit critique, travail d'équipe, gestion de projets)
+		-> Bac Scientique spécialité Informatique Sciences du Numérique
+			Obtenu avec mention
+	-> Skills
+		-> Compétences professionnelles
+			architecture technique
+			algorithmie, randomisation
+			culture technique
+			modélisation mathématique
+			analyse, traitement de modèles de données
+			game design, level design
+			expérience de jeu, expérience utilisateur
+			scripting (pseudo-code)
+			versioning/tests techniques
+			optimisation des organisations
+			Recherche et Développement, Reverse Engineering
+			gestions des canaux de communication
+			préparer un cahier des charges fonctionnel
+			gestion de projets impliquant multiples parties
+			analyse et implémentation de retours utilisateurs
+			Capacité d'apprentissage de nouveau langages et frameworks
+			Google Suite, Adobe Suite, Github
+		-> Langages, environnements de développement et outils
+			Langages:
+				+++ HTML
+				+++ CSS
+				+++ JavaScript
+				+++ Assembleur
+				++ Ruby
+				++ Python
+				++ C, C++, C#
+				+ Java
+				+ Rust
+				+ PHP
+				+ MySQL 
+			Environnements de développement:
+				node.js
+				.Net
+				RPG Maker
+			Outils:
+				Figma
+				Photoshop
+				Blender
+				Ghidra
+-> Mes projets
+	//Cette section est agencée sous forme de cartes. Un saut de ligne = une nouvelle carte.
+	Projets en cours:
+
+		Ce portfolio est le projet qui me prend la majorité de mon temps désormais. Il me permet de transitionner progressivement vers la préparation du titre de Concepteur de Solutions Digitales.
+
+		été 2023 - été 2025: projet secret
+		Un gros projet prévu sur une durée de 2 ans m'a été commissionné cet été. Cette carte sera mise à jour lorsque le projet sera achevé.
+
+	Projets commissionnés:
+
+		Juin 2023 - Septembre 2023: Ligue Race Pokémon Noir
+		Projet de collaboration entre plusieurs streamers dans le but de dynamiser la communauté
+		Création d'un mod de difficulté servant de compétition entre trois streamers.
+		Injection de code C dans le jeu pour ajouter de la qualité de vie dans le jeu
+		Lien du live: https://www.youtube.com/watch?v=DUIUGZt8uW8
+
+		6 Avril 2023: Pokemon Platine No Exp
+		Projet pour un live caritatif de Fildrong
+		Le but était d'écrire un script simple injectant divers ajouts de qualité de vie en plus de désactiver la possiblité de gain d'expérience dans le jeu.
+		Script en Assembleur.
+		Levée de plus de 41000 euros sur un week-end pour Handicap International
+		Lien du dernier live: https://www.youtube.com/watch?v=15KBdJ8gggs
+
+		Juin 2021 - Février 2023: Pokémon Saphir Alpha Full Random
+		Deuxième épisode de la série de projets "Full Random", jeux joués en stream par Fildrong
+		Amélioration du logiciel de base qui était à ses balbutiements en 2019 grâce au feedback du streamer
+		Recueil des demandes de la communauté et du streamer avec pour objectif d'avoir une expérience agréable pour tous
+		Amélioration drastique de la génération des dresseurs et des rencontres
+		Génération d'une courbe de progression avec plus de paramètres, permettant une expérience encore plus customisable en fonction des besoins
+		Injection de listes de données et de scripts en jeu
+		Lien Playlist Saphir Alpha Full Random Fildrong: https://www.youtube.com/playlist?list=PLLVXOvjpWK7metlG71FMtg7DTI99wuXWZ
+
+		Février 2019 - Octobre 2020: Pokémon Salty Platinum
+		Développement d'un projet visant à dynamiser la communauté du Streameur et Youtubeur Fildrong
+		Le but du projet était de faire un jeu très difficile centré autour des réferences de la communauté tout en offrant une expérience plus fluide au streameur.
+		Préparation d'un live caritatif ayant levé plus de 5000€ de fonds en 2h pour Confinement du Choeur
+		Lien du live caritatif: https://www.youtube.com/watch?v=y-n-SrHvPbA
+		Recherche et développement pour automatiser l'ajout de nouveaux modèles 3D en jeu sans Blender ni Google SketchUp (voir projet Pokemon DS Map Studio)
+		Ajout de nouveaux scripts en pseudo-code dans le jeu
+		Lien Playlist Salty Platinum Fildrong: https://www.youtube.com/playlist?list=PLLVXOvjpWK7m3EfjWeFcMheAFEoNFkhf_
+
+		Mai 2019 - Novembre 2019: Pokémon X Full Random
+		Début de la série de projets "Full Random", jeux joués en stream par Fildrong
+		Début du développement d'une branche d'un logiciel permettant l'édition de jeux 3DS en C++ et avec .Net .
+		Production d'un jeu dont l'aléatoire est "dirigé" dans le but d'équilibrer l'expérience autour d'un challenge très difficile mais réalisable.
+		Développement de modèles mathématiques équilibrant théoriquement la progression des adversaires par rapport à celle du joueur. Equilibrage non-adaptatif.
+		Lien Playlist X Random Fildrong: https://www.youtube.com/playlist?list=PLLVXOvjpWK7na0XoZAqf6KwGfjJuzeFSE
+
+	Projets non-commissionnés:
+
+		Depuis 2020: Contributeur SkyTemple et pmdsky-debug.
+		Projets visant à fournir un outil tout en un permettant le modding de Pokémon Donjon Mystère: Explorateurs du Ciel plus simple
+		Reverse engineering et contribution de solutions visant à faciliter le développement de nouveaux mods no-code
+		Création de patchs visant à corriger certains défauts de design du jeu de base, qu'il s'agisse de correction de bugs ou d'ajouts de qualité de vie rendant les mods sur le jeu plus agréables. Patchs en Assembleur, implémentation de patchs sur SkyTemple en Python et aide à l'ajout de modules en Rust.
+		Github SkyTemple: https://github.com/SkyTemple/skytemple
+		Github pmdsky-debug: https://github.com/UsernameFodder/pmdsky-debug/tree/master
+
+		Depuis 2020: Mystery Dungeon: Explorers of Alpha.
+		Développement toujours actif de mon propre jeu en anglais, visant à améliorer Pokémon Donjon Mystère: Explorateurs du Ciel en ajoutant de nouvelles fonctionnalités, quêtes et manières de vivre l'expérience de jeu
+		Reverse-engineering pour l'implémentation de nouvelles fonctionnalités dans un jeu existant avec Ghidra et IDA Pro
+		Développement de ressources pour équilibrer automatiquement la difficulté du jeu en fonction de l'avancée du joueur en Assembleur
+		Création d'assets pour accompagner les ajouts en jeu
+		Gestion du versioning et communication autour du projet
+		Post forum Explorers of Alpha: https://projectpokemon.org/home/forums/topic/58480-pokemon-mystery-dungeon-explorers-of-alpha-20-patch-notes-still-under-heavy-development/
+		Lien Twitter Explorers of Alpha: https://twitter.com/EoAlpha_off
+
+		2020-2022: Contributeur Complete Fire Red Upgrade et Dynamic Pokemon Expansion.
+		Projets conjoints visant à rendre le modding de Pokémon Rouge Feu plus fiable et accessible au grand public.
+		Aide au développement d'une IA adaptative permettant de s'adapter aux choix du joueur dynamiquement dans un environnement de jeu fermé, en C, Assembleur inline et scripts Python.
+		Contributeur actif sur Pokémon Unbound, fangame utilisant comme base ces deux projets:
+		- spriting: ajout d'assets en jeu
+		- développement d'une expérience utilisateur adaptée à quatre niveaux de difficulté
+		- game design et level design: expérimentation du jeu en tant que Beta Tester, gestion des versions de projet
+		GitHub CFRU: https://github.com/Skeli789/Complete-Fire-Red-Upgrade
+		Github DPE branche Unbound: https://github.com/Skeli789/Dynamic-Pokemon-Expansion/tree/Unbound-Working
+		Lien Pokémon Unbound: https://www.pokecommunity.com/threads/pok%C3%A9mon-unbound-completed.382178/
+
+		2019-2020: Contributeur sur divers projets relatifs au rom hacking NDS à travers le Discord "Kingdom of DS Hacking".
+		PDSMS, DSPRE. Reverse engineering, recherche et aide au développement de solutions facilitant l'insertion de maps et l'injection de code C dans des ROMs de Pokémon Platine, Pokémon HeartGold et Pokémon SoulSilver.
+		Lien PDSMS: https://github.com/Trifindo/Pokemon-DS-Map-Studio
+		Lien DSPRE: https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor
+		Lien PokEditor: https://github.com/turtleisaac/PokEditor-v2
+
+-> Page contact mail
+	-> TO DO: activer l'envoi d'un mail
