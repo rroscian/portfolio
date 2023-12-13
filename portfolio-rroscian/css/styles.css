@@ -74,7 +74,9 @@
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
   --bs-link-color: #c8c8c8;
+  --bs-link-color-card: #4040f8;
   --bs-link-hover-color: #f8f8f8;
+  --bs-link-hover-color-card:#2020d8;
   --bs-code-color: #e21e80;
   --bs-highlight-bg: #fff3cd;
 }
@@ -490,6 +492,10 @@ progress {
   display: none !important;
 }
 
+.card-main-text {
+  color: var(--bs-card-text);
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
@@ -532,6 +538,7 @@ progress {
   font-size: calc(1.475rem + 2.7vw);
   font-weight: 300;
   line-height: 1.2;
+  color: #fff;
 }
 @media (min-width: 1200px) {
   .display-4 {
@@ -963,6 +970,7 @@ progress {
   .col-sm-8 {
     flex: 0 0 auto;
     width: 66.66666667%;
+    color: var(--bs-card-text);
   }
   .col-sm-9 {
     flex: 0 0 auto;
@@ -1132,6 +1140,7 @@ progress {
   .col-md-8 {
     flex: 0 0 auto;
     width: 66.66666667%;
+    color: var(--bs-card-text);
   }
   .col-md-9 {
     flex: 0 0 auto;
@@ -1470,6 +1479,7 @@ progress {
   .col-xl-8 {
     flex: 0 0 auto;
     width: 66.66666667%;
+    color: var(--bs-card-text);
   }
   .col-xl-9 {
     flex: 0 0 auto;
@@ -4167,6 +4177,7 @@ textarea.form-control-lg {
   --bs-card-cap-color: ;
   --bs-card-height: ;
   --bs-card-color: ;
+  --bs-card-text: #202020;
   --bs-card-bg: #fff;
   --bs-card-img-overlay-padding: 1rem;
   --bs-card-group-margin: 0.75rem;
@@ -6754,6 +6765,13 @@ textarea.form-control-lg {
   color: #1a1e21 !important;
 }
 
+.link-mid-text {
+  color: var(--bs-link-color-card);
+}
+.link-mid-text:hover {
+  color: var(--bs-link-hover-color-card);
+}
+
 .ratio {
   position: relative;
   width: 100%;
@@ -8187,8 +8205,13 @@ textarea.form-control-lg {
 }
 
 /* rtl:end:remove */
+.text-top {
+  --bs-text-opacity: 1;
+}
+
 .text-primary {
   --bs-text-opacity: 1;
+  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
 }
 
 .text-secondary {
@@ -8232,6 +8255,11 @@ textarea.form-control-lg {
 }
 
 .text-white {
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-white), var(--bs-text-opacity)) !important;
+}
+
+.text-nav {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-navback-rgb), var(--bs-text-opacity)) !important;
 }
